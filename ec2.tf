@@ -1,2 +1,2 @@
 # code to create EC2
-# type --> t2.large
+# type --> t2.micro
